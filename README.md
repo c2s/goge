@@ -1,2 +1,0 @@
-# GoGe
-goge.mofei.org
